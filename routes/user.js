@@ -17,5 +17,5 @@ const UserRouter = Router();
     })
 
 module.exports = {
-    userRouter : userRouter
+    UserRouter : UserRouter
 }
