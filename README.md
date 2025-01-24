@@ -36,5 +36,5 @@ express-rate-limit: To implement rate limiting.
 
 Frontend:-
 
-Option 1: React.js for dynamic, interactive client-side pages.
+ React.js for dynamic, interactive client-side pages.
 

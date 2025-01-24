@@ -1,5 +1,6 @@
 const {Router} = require("express");
 const UserRouter = Router();
+
     UserRouter.post("/user/signup",function(req,res){
         res.json({
             message : "Signup endpoint"
